@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+}
+html body {
+  padding: 0;
+  margin: 0 auto;
+  height: 100%;
+}
+html body #root {
+  height: 100%;
+}
+html body .tabs-div {
+  height: 100%;
+}
+html body .tabs-div .title {
+  margin: 0;
+  padding: 0;
+  margin: 0 auto;
+}
+html body .enhancedCSS {
+  background-color: #040845;
+  height: 100%;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
